@@ -1,4 +1,4 @@
-package concepts;
+package encapsulation;
 
 /*
  * Encapsulation concept focuses on setters and getter methods so that
