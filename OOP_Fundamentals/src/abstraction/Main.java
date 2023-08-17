@@ -3,6 +3,7 @@ package abstraction;
 /*
  * In abstraction the abstract class' methods do not need to be defined.
  */
+// adding a comment to make a new commit
 public class Main {
 	public static void main(String[] args) {
 	Circle circle = new Circle(5);
